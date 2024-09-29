@@ -1,0 +1,15 @@
+{
+  "name": "day-3",
+  "version": "1.0.0",
+  "description": "Hello! My name is Muhammad Ihsan Mutaharrik. You can call me **Ihsan**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.13"
+  }
+}
